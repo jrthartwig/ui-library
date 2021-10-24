@@ -1,0 +1,19 @@
+{
+  "name": "@jrthartwig/ui-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrthartwig/ui-library.git"
+  },
+  "author": "Jocelynn Hartwig and Ben Bakle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrthartwig/ui-library/issues"
+  },
+  "homepage": "https://github.com/jrthartwig/ui-library#readme"
+}
